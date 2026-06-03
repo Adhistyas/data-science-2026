@@ -51,7 +51,7 @@ Link:
 
 **Cara Menjalankan Project Secara Lokal**
 - Clone repository:
-git clone https://github.com/Adhistyas/data-science-2026/(pertemuan yang diinginkan)
+git clone https://github.com/Adhistyas/data-science-2026/
 - Masuk ke folder project:
 cd repository
 - Install dependency:
