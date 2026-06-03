@@ -10,9 +10,12 @@ Kelas: IF-403
 
 Program Studi: PJJ - Informatika
 
+**Deskripsi Singkat**
+
 Saya memiliki tujuan dalam belajar data science karena ingin memahami bagaimana data dapat diolah menjadi informasi, karena dalam Data Science, saya akan mempelajari cara mengumpulkan, membersihkan, mengolah, menganalisis, serta memvisualisasikan data agar lebih mudah dipahami dan digunakan
 
-Daftar Pertemuan
+**Daftar Pertemuan**
+
 Pertemuan 1: Pembelajaran mengenai pengenalan Data Science
 
 Link:
