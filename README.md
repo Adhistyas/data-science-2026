@@ -18,31 +18,31 @@ Saya memiliki tujuan dalam belajar data science karena ingin memahami bagaimana 
 
 Pertemuan 1: Pembelajaran mengenai pengenalan Data Science
 
-Link:
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan1_Bagas_Aditiya_240401010141.ipynb
 
 Pertemuan 2: Pembelajaran mengenai Struktur Data Python, NumPy & Pandas
 
-Link:
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan2_Bagas_Aditiya_240401010141.ipynb
 
 Pertemuan 3: Pembelajaran mengenai Data Cleaning: Missing Values, Outlier & Ekstraksi Data
 
-Link:
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan3_Bagas_Aditiya_240401010141.ipynb
 
 Pertemuan 4: Pembelajaran mengenai Statistika Dasar & Analisis Data
 
-Link:
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan4_Bagas_Aditiya_240401010141.ipynb
 
 Pertemuan 5: Pembelajaran mengenai Visualisasi Data
 
-Link:
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan5_Bagas_Aditiya_240401010141.ipynb
 
 Pertemuan 6: Pembelajaran mengenai Persiapan Data
 
-Link:
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan6_Bagas_Aditiya_240401010141.ipynb
 
 Pertemuan 7: Pembelajaran mengenai Machine Learning: Regresi Linear
 
-Link:
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan7_Bagas_Aditiya_240401010141.ipynb
 
 
 **Tools dan Library yang Digunakan**
