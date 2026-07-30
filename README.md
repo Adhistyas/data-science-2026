@@ -44,6 +44,26 @@ Pertemuan 7: Pembelajaran mengenai Machine Learning: Regresi Linear
 
 Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan7_Bagas_Aditiya_240401010141.ipynb
 
+Pertemuan 9: Pembelajaran mengenai Machine Learning: Regresi Linear
+
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan9_Bagas_Aditiya_240401010141.ipynb
+
+Pertemuan 10: Pembelajaran mengenai Machine Learning: Regresi Linear
+
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan10_Bagas_Aditiya_240401010141.ipynb
+
+Pertemuan 11: Pembelajaran mengenai Machine Learning: Regresi Linear
+
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan11_Bagas_Aditiya_240401010141.ipynb
+
+Pertemuan 12: Pembelajaran mengenai Machine Learning: Regresi Linear
+
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan12_Bagas_Aditiya_240401010141.ipynb
+
+Pertemuan 13: Pembelajaran mengenai Machine Learning: Regresi Linear
+
+Link: https://github.com/Adhistyas/data-science-2026/blob/main/Pertemuan13_Bagas_Aditiya_240401010141.ipynb
+
 
 **Tools dan Library yang Digunakan**
 - Python
